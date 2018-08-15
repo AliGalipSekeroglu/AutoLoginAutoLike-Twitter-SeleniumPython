@@ -48,6 +48,6 @@ for element in elements:
 		element.click()
 		time.sleep(2)
 	except Exception:
-		print("Bir sorun var..")
+		print("Something is wrong...")
 
 browser.close()
