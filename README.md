@@ -25,3 +25,5 @@ Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads Edge:	htt
 5-I use Visual Studio Code as compiler but you can use which compiler you wish. (I can advice to use Python IDLE.) I pretend you're going to use Visual Studio Code and open View-Integrated Terminal and type below and run:
 
 python your_application_name.py
+
+Stay with Python!
